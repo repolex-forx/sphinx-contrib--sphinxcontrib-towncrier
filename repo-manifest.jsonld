@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/sphinxcontrib-towncrier/commit/7b6ebdf880c41be8bb0ff0a23c4fca2a7f4b8926",
       "git:hexsha": "7b6ebdf880c41be8bb0ff0a23c4fca2a7f4b8926",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/sphinxcontrib-towncrier/commit/413f87d5a8c434afcd30ff1cb66e79196a86c142",
